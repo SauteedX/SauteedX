@@ -1,6 +1,5 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=Sateed.&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xen192)](https://solved.ac/xen192)
 <!--
 **SauteedX/SauteedX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
