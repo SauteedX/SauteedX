@@ -20,7 +20,7 @@
 <div align="center">
   Hanshin University AI/SW 전공 & 현장형 임베디드/네트워크/로우레벨 역량 강화 중.<br>
   <br>
-  <img src="https://github.com/SauteedX/SauteedX/blob/output/github-contribution-grid-snake.svg" width="80%" alt="contribution-snake" />
+  <img src="https://github.com/SauteedX/SauteedX/blob/gh-pages/github-snake.svg" width="80%" alt="contribution-snake" />
 </div>
 
 ---
