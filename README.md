@@ -70,6 +70,13 @@
 ---
 
 
+<h3 align="center">📈 Stats & Activity</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SauteedX&show_icons=true&theme=tokyonight&include_all_commits=true" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SauteedX&layout=compact&theme=tokyonight&langs_count=8" width="300" />
+</p>
+
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=90&section=footer"/>
