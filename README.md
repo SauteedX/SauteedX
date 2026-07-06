@@ -18,7 +18,6 @@
 
 
 <div align="center">
-  Hanshin University AI/SW 전공 & 현장형 임베디드/네트워크/로우레벨 역량 강화 중.<br>
   <br>
   <img src="https://github.com/SauteedX/SauteedX/blob/gh-pages/github-snake-dark.svg" width="80%" alt="contribution-snake" />
 </div>
@@ -44,28 +43,7 @@
 <!-- 주요 Section: 애니 텍스트/카드/프로젝트 요약 -->
 <h3 align="center">📚 About Me</h3>
 
-<table align="center" width="95%">
-  <tr>
-    <td valign="top" width="50%">
-      <ul>
-        <li><b>AI/SW 대학생 & 임베디드 공학 취미</b></li>
-        <li>마이크로컨트롤러, 하드웨어/펌웨어, IoT 네트워크</li>
-        <li>Android 앱, 임베디드 오디오, Python 자동화</li>
-        <li>로우레벨~풀스택 성능 최적화 연구</li>
-        <li>알고리즘 문제풀이/커널·컴파일러 입문</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <ul>
-        <li><b>🛠️ Tech Highlights</b></li>
-        <li>Arduino, PlatformIO, RTOS</li>
-        <li>Kotlin/Java · Android BLE/SPI</li>
-        <li>Python MCP 서버·스크립트</li>
-        <li>C/C++ 임베디드 오디오·네트워크·딥러닝 실험</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+
 
 ---
 
