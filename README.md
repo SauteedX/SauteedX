@@ -22,30 +22,9 @@
   <img src="https://github.com/SauteedX/SauteedX/blob/gh-pages/github-snake-dark.svg" width="80%" alt="contribution-snake" />
 </div>
 
----
-
-<!-- TECH STACKS: 배지+아이콘 콜라쥬 -->
-<h3 align="center">🚀 Tech Stack & Tools </h3>
-<p align="center" style="padding:10px 0;">
-  <img src="https://img.shields.io/badge/PlatformIO-f6822b?logo=platformio&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Arduino-00979c?logo=arduino&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Kotlin-7f52ff?logo=kotlin&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/C/C++-00599C?logo=c&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Git-f34f29?logo=git&logoColor=white&style=for-the-badge"/>
-</p>
-
----
-
-<!-- 주요 Section: 애니 텍스트/카드/프로젝트 요약 -->
-<h3 align="center">📚 About Me</h3>
 
 
 
----
 
 
 <h3 align="center">📈 My GitHub Stats</h3>
