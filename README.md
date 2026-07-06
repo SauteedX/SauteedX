@@ -1,11 +1,3 @@
-<!-- 깔끔+강조+가독성 높은 헤더 -->
-<h1 align="center" style="font-size:44px;color:#2c2c4f;margin-bottom:0;">
-  SauteedX
-</h1>
-<p align="center" style="font-size:20px;color:#00b8d4;">
-  🧑‍💻 Embedded System & AI/SW Developer<br>
-
-</p>
 
 <p align="center">
   <a href="mailto:cjhkevin17@gmail.com"><img src="https://img.shields.io/badge/email-cjhkevin17@gmail.com-blue?logo=gmail&logoColor=white&style=flat-square" /></a>
